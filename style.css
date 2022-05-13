@@ -1,0 +1,26 @@
+.titulo {
+    background-color: yellow;
+    color: black;
+    border: 4px; border-style: solid; color: black;
+}
+
+.pratos {
+    color: red;
+}
+
+.precos {
+    color: blue;
+}
+
+.redbull {
+    color: blue;
+}
+
+.pitbull {
+    color:green
+}
+
+.puma {
+    color: aqua;
+}
+
